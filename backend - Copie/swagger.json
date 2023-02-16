@@ -1,0 +1,8 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "3.0.0",
+        "title": "API CRUD WORLD OF WARCRAFT",
+        "description": "Une API qui permet ajout/suppression/modification de personnages de world of warcraft par les joueurs"
+    }
+}
